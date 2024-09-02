@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
     <title>Главная</title>
     <meta charset="UTF-8">
