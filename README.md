@@ -22,7 +22,7 @@
             <div class="container_header">
 
                 <a href="./index.html">
-                    <img src="logo.png" class="logo">
+                    <img src="/logo.png" class="logo">
                 </a>
                 <nav id="mainnav" class="mainnav">
                     <ul class="menu">
